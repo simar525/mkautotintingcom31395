@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.mkautotinting.com/$1"
+ }
+  ]
+}
